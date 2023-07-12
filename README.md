@@ -13,9 +13,7 @@ PHP >=8;需要Swoole支持，可参考 https://learnku.com/articles/77653 搭建
 git clone git@github.com:crayxn/grpc-stream-demo.git
 cd grpc-stream-demo
 composer install
-
 php bin/hyperf.php start
-
 ```
 
 ### 测试
