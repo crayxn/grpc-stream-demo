@@ -6,7 +6,8 @@
 ## Quick Start
 
 ### 环境
-PHP >=8;需要Swoole支持，可参考 https://learnku.com/articles/77653 搭建
+PHP >=8;Swoole
+（若无环境，可参考 https://learnku.com/articles/77653 搭建）
 
 ### 运行
 ```
